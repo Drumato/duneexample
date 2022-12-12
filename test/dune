@@ -1,2 +1,3 @@
-(test
- (name duneexample))
+(tests
+ (names test_foo)
+ (libraries duneexample alcotest))
